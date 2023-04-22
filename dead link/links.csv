@@ -1,0 +1,969 @@
+Post ID,Post Link,Broken Link,Status Code,Link Text
+,,,ReadTimeout,
+18253,https://www.theverge.com/2023/4/18/23687862/adobe-lightroom-update-adaptive-presets-beard-ai-features,https://helpx.adobe.com/lightroom-cc/using/whats-new.html,ReadTimeout,latest Lightroom features
+,,,ReadTimeout,
+18253,https://www.theverge.com/2023/4/18/23687862/adobe-lightroom-update-adaptive-presets-beard-ai-features,https://helpx.adobe.com/uk/creative-cloud/help/technology-preview.html,ReadTimeout,tech preview
+,,,ReadTimeout,
+18253,https://www.theverge.com/2023/4/18/23687862/adobe-lightroom-update-adaptive-presets-beard-ai-features,https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop,ReadTimeout,means to validate NFTs
+,,,ReadTimeout,
+18253,https://www.theverge.com/2023/4/18/23687862/adobe-lightroom-update-adaptive-presets-beard-ai-features,https://www.theverge.com/2023/3/23/23652131/canva-ai-update-visual-worksuite-brand-tools-features,ReadTimeout,Canva
+,,,InvalidSchema,
+18253,https://www.theverge.com/2023/4/18/23687862/adobe-lightroom-update-adaptive-presets-beard-ai-features,https://www.theverge.com/2022/10/18/23409024/lightroom-features-new-adobe-max-2022-announcement,ConnectTimeout,“Select People” tool
+,,,ConnectionError,
+18243,https://venturebeat.com/ai/synthesis-ai-debuts-text-to-3d-technology-for-cinematic-quality-digital-human-synthesis/,https://venturebeat.com/ai/synthesis-ai-debuts-text-to-3d-technology-for-cinematic-quality-digital-human-synthesis/,503,Read More
+,,,503,
+18239,https://venturebeat.com/ai/synthesis-ai-debuts-high-resolution-text-to-3d-capabilities-with-synthesis-labs/,https://venturebeat.com/ai/synthesis-ai-debuts-high-resolution-text-to-3d-capabilities-with-synthesis-labs/,503,Read More
+,,,500,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289,500,The Download
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/?_ga=2.177939308.858137607.1681713794-160041263.1657781451,403,Sign up
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,403,Read the full story
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2023/04/18/1071274/climate-change-building-fire-resistant-homes-adaptation/?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,403,Read the full story
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/subscribe?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,403,$69 a year
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.vice.com/en/article/wxj5gw/heart-on-my-sleeve-ai-ghostwriter-drake,403,Motherboard
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/#intcid=_wired-right-rail_f4a2ee4d-6658-4fef-84c4-9972a3beb478_popular4-1-reranked-by-vidi,403,Wired
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.bbc.co.uk/news/entertainment-arts-65296763,403,BBC
+,,,403,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://ainowinstitute.org/2023-landscape,403,new report
+,,,308,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.nytimes.com/interactive/2023/04/16/science/spacex-starship-rocket-launch.html,303,NYT
+,,,303,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.reuters.com/business/aerospace-defense/elon-musks-spacex-postpones-debut-flight-starship-rocket-system-2023-04-17/,303,Reuters
+,,,303,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.economist.com/science-and-technology/2022/02/19/spacexs-monstrous-dirt-cheap-starship-may-transform-space-travel,303,Economist
+,,,303,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://qz.com/elon-must-truthgpt-rival-openai-microsoft-chatgpt-1850346998,303,Quartz
+,,,302,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.theverge.com/23686778/bluesky-ceo-jay-graber-interview-decentralized-social-media-twitter-mastodon,302,The Verge
+,,,302,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.theguardian.com/technology/2023/apr/18/mastodon-users-twitter-elon-musk-social-media,302,The Guardian
+,,,302,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.nytimes.com/2023/04/14/arts/disabled-people-streaming-performances.html,302,NYT
+,,,302,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.businessinsider.com/twitter-sign-up-searches-plunged-81-since-elon-musk-takeover-2023-4?r=US&IR=T,302,Insider
+,,,302,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.economist.com/asia/2023/04/16/how-japan-is-losing-the-global-electric-vehicle-race,302,Economist
+,,,302,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.wsj.com/articles/tesla-faces-a-tougher-road-ahead-in-china-58bd6ce9?mod=tech_lead_pos1,302,WSJ
+,,,302,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.bloomberg.com/news/articles/2023-04-17/vw-electric-cars-race-to-catch-china-rivals-byd-geely?srnd=businessweek-v2&sref=E9Urfma4,301,Bloomberg
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2023/02/21/1068880/how-did-china-dominate-electric-cars-policy/?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,301,MIT Technology Review
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.theguardian.com/technology/2023/apr/18/the-disgusting-food-of-tiktok-is-it-designed-to-eat-provoke-or-arouse,301,The Guardian
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2023/03/03/1069359/three-parent-baby-technique-for-infertility-boost/?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,301,MIT Technology Review
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.wired.com/story/ice-agent-database-abuse-records/,301,Wired
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2022/10/05/1060746/porcelain-challenge-fake-views-moral-panic/?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,301,MIT Technology Review
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://undark.org/2023/04/18/as-sea-levels-rise-tidal-power-becomes-a-moving-target/,301,Undark
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2022/08/17/1057942/why-we-can-no-longer-afford-to-ignore-the-case-for-climate-adaptation/?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,301,
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2022/08/17/1057942/why-we-can-no-longer-afford-to-ignore-the-case-for-climate-adaptation/?truid=*|LINKID|*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*|SUBCLASS|*&utm_content=*|DATE:m-d-Y|*,301,
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,mailto:rhiannon.williams@technologyreview.com,301,Drop me a line
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.bloomberg.com/news/features/2023-04-17/rising-cyberattacks-in-japan-show-how-us-europe-are-also-vulnerable?srnd=technology-vp&sref=E9Urfma4,301,Bloomberg
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.technologyreview.com/2022/08/17/1057942/why-we-can-no-longer-afford-to-ignore-the-case-for-climate-adaptation/?truid=*%7CLINKID%7C*&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_term=*%7CSUBCLASS%7C*&utm_content=*%7CDATE:m-d-Y%7C*,301,Read the full story
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.theatlantic.com/technology/archive/2023/04/influencer-social-media-authenticity-jenn-im/673739/,301,The Atlantic
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.instagram.com/kabosumama/?hl=en,301,Kabosu
+,,,301,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://twitter.com/RhiannonJudithW,200,tweet ’em at me
+,,,200,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.newyorker.com/magazine/2023/04/24/the-future-of-fertility,200,New Yorker
+,,,200,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://emerging-europe.com/after-hours/emerging-europes-most-moving-statue-batumis-ali-and-nino/,200,kinetic sculpture
+,,,200,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.youtube.com/watch?v=-vBUxmWeoc0,200,Hokule’a the surfing cat
+,,,200,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.reddit.com/r/MadeMeSmile/comments/12bikgi/tom_and_jerry_cartoons_progression_19402023/?utm_source=share&utm_medium=web2x&context=3,200,Tom and Jerry
+,,,200,
+18225,https://www.technologyreview.com/2023/04/18/1071740/download-fire-resistant-homes-big-techs-ai-chokehold/,https://www.vice.com/en/article/k783gy/worlds-most-expensive-mango-miyazaki-japan-india,200,world’s most expensive mango
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://ainowinstitute.org/2023-landscape,200,new report
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,liable for AI harms
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2023/01/10/1066538/the-eu-wants-to-regulate-your-favorite-ai-tools/?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,"negotiating the AI Act, "
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/,200,sign up here
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2022/05/13/1052223/guide-ai-act-europe/?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,EU’s AI Act
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://openai.com/blog/our-approach-to-ai-safety,200,OpenAI
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,http://www.cac.gov.cn/2023-04/11/c_1682854275475410.htm,200,draft bill on generative AI
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,making up nonsense
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.wsj.com/articles/ftc-chair-lina-khan-vows-to-protect-competition-in-ai-market-bb80e460,200,vowed to ensure competition
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,harmful biases
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2023/04/03/1070893/three-ways-ai-chatbots-are-a-security-disaster/?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,security vulnerabilities
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.federalregister.gov/documents/2023/04/13/2023-07776/ai-accountability-policy-request-for-comment,200,seeking input
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f,200,The Wall Street Journal
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2023/04/11/1071104/ai-helping-historians-analyze-past/?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,Read more from Moira Donovan here
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/?truid=&utm_source=the_algorithm&utm_medium=email&utm_campaign=the_algorithm.unpaid.engagement&utm_content=04-17-2023,200,copyright 
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html,200,The New York Times
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.semafor.com/article/04/07/2023/stability-ai-is-on-shaky-ground-as-it-burns-through-cash,200,Semafor
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://techcrunch.com/2023/04/13/stability-ais-new-model-is-slightly-better-at-generating-hands/,200,released a new version
+,,,200,
+18169,https://www.technologyreview.com/2023/04/18/1071727/generative-ai-risks-concentrating-big-techs-power-heres-how-to-stop-it/,https://www.theatlantic.com/technology/archive/2023/04/generative-ai-playing-chess-martin-bot/673697,200,The Atlantic
+,,,200,
+18136,https://venturebeat.com/games/withings-introduces-body-smart-scale-with-advance-health-analysis/,https://venturebeat.com/games/withings-introduces-body-smart-scale-with-advance-health-analysis/,200,Read More
+,,,200,
+18099,https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt,https://twitter.com/elonmusk/status/1626533667408596992?s=20,200,He tweeted
+,,,200,
+18099,https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt,https://twitter.com/elonmusk/status/1626533667408596992?ref_src=twsrc%5Etfw,200,"February 17, 2023"
+,,,200,
+18099,https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt,https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter,200,urges companies to pause “giant AI experiments”
+,,,200,
+18099,https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,200,"established a new AI company, called X.AI"
+,,,200,
+18099,https://www.theverge.com/2023/4/17/23687440/elon-musk-truthgpt-ai-chatgpt,https://www.theverge.com/2023/2/9/23593011/elon-musk-neuralink-brain-implant-transportation-department-investigation-contaminated,200,given Neuralink’s treatment of them
+,,,200,
+18019,https://venturebeat.com/ai/openai-chief-says-age-of-giant-ai-models-is-ending-a-gpu-crisis-could-be-one-reason-why/,https://venturebeat.com/ai/openai-chief-says-age-of-giant-ai-models-is-ending-a-gpu-crisis-could-be-one-reason-why/,200,Read More
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://techcrunch.com/2022/08/03/unofficial-bridgerton-musical-lawsuit-netflix-barlow-bear/,200,open to interpretation
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://www.vice.com/en/article/88xadz/ai-generated-eminem-rap-youtube-chatgpt,200,copyright strike
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://www.theverge.com/2020/4/28/21240488/jay-z-deepfakes-roc-nation-youtube-removed-ai-copyright-impersonation,200,copyright strikes
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://variety.com/2023/music/news/universal-music-streaming-services-block-ai-1235582612/,200,said
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://techcrunch.com/2022/09/21/who-fed-the-ai/,200,Have I Been Trained
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/,200,Stable Diffusion
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://www.ft.com/content/aec1679b-5a34-4dad-9fc9-f4d8cdd124b9,200,report
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://hypebeast.com/2023/4/drake-ai-rapping-ice-spice-munch-voice-response-info,200,messing around
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/,200,AI music generators could be a boon for artists — but also problematic
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://techcrunch.com,200,TechCrunch
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,200,A new Drake x The Weeknd track just blew up — but it’s an AI fake
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://spawning.ai/,200,Spawning AI
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://techcrunch.com/author/amanda-silberling/,200,Amanda Silberling
+,,,200,
+17994,https://techcrunch.com/2023/04/17/uh-oh-an-ai-generated-song-by-drake-and-the-weeknd-went-viral/,https://www.tiktok.com/@ghostwriter977/video/7222027667132960046,200,song
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://www.google.com/,200,Google
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://blogs.bing.com/search/march_2023/The-New-Bing-and-Edge-%E2%80%93-Momentum-from-Our-First-Month,200,a blog post
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://www.ai-expo.net/,200,
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://www.ai-expo.net/,200,AI & Big Data Expo
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://www.artificialintelligence-news.com/2023/02/13/googlers-slam-ceo-call-bard-reveal-botched/,200,to criticise
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://www.artificialintelligence-news.com/2023/03/21/google-plays-it-safe-initial-bard-rollout/,200,Google plays it safe with initial Bard rollout
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://www.artificialintelligence-news.com,200,AI News
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://digitaltransformation-week.com/,200,Digital Transformation Week
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://techforge.pub/upcoming-events/,200,here.
+,,,200,
+18088,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,https://www.artificialintelligence-news.com/2023/04/17/google-test-more-ai-enhanced-search-next-month/,200,Google will test a more AI-enhanced search next month
+,,,200,
+17958,https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/,https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/,200,Read More
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,200,Italy will lift ChatGPT ban if OpenAI fixes privacy issues
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://openai.com/product/gpt-4,200,blog post
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://unsplash.com/@victorfreitas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Victor Freitas
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://unsplash.com/photos/Yuv-iwByVRQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Unsplash
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://www.ai-expo.net/,200,
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://www.ai-expo.net/,200,AI & Big Data Expo
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://www.developer-tech.com/news/2023/mar/29/over-1000-experts-call-halt-ai-development/,200,calling for a pause
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://digitaltransformation-week.com/,200,Digital Transformation Week
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://techforge.pub/upcoming-events/,200,here.
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,200,OpenAI is not currently training GPT-5
+,,,200,
+17927,https://www.artificialintelligence-news.com/2023/04/17/openai-is-not-currently-training-gpt-5/,https://www.artificialintelligence-news.com,200,AI News
+,,,200,
+17897,https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal,https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html,200,reports The New York Times
+,,,200,
+17897,https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal,https://www.theverge.com/2023/3/14/23639375/microsoft-edge-bing-ai-sidebar-chatbot-feature,200,Microsoft’s Bing AI sidebar for its Edge browser
+,,,200,
+17897,https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal,https://www.theverge.com/2023/3/21/23649794/google-chatgpt-rival-bard-ai-chatbot-access-hands-on,200,experimental Bard chatbot
+,,,200,
+17897,https://www.theverge.com/2023/4/17/23686108/google-ai-search-tools-magi-chatgpt-bing-samsung-deal,https://www.theverge.com/2023/2/9/23592647/ai-search-bing-bard-chatgpt-microsoft-google-problems-challenges,200,failings
+,,,200,
+17813,https://venturebeat.com/ai/much-ado-about-generative-ai-the-money-the-potential-the-pitfalls/,https://venturebeat.com/ai/much-ado-about-generative-ai-the-money-the-potential-the-pitfalls/,200,Read More
+,,,200,
+17787,https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/,https://venturebeat.com/ai/algorithms-auditing-algorithms-gpt-4-responsible-ai-beyond-human-scale/,200,Read More
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://en.wikipedia.org/wiki/The_Real_World_(TV_series),200,start getting real
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://www.vice.com/en/article/epvdme/developers-are-connecting-multiple-ai-agents-to-make-more-autonomous-ai,200,a number of offshoot projects
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://newatlas.com/games/inworld-origins-ai-npc/,200,conversations with convincing personalities
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://time.com/6257790/ai-chatbots-love/,200,a trend that’s already here
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://arxiv.org/abs/2304.03442,200,preprint paper
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://techcrunch.com/2023/04/10/researchers-populated-a-tiny-virtual-town-with-ai-and-it-was-very-wholesome/,200,may not be practical enough
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://arstechnica.com/information-technology/2023/04/developer-creates-self-healing-programs-that-fix-themselves-thanks-to-gpt-4/,200,writing and debugging code
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/,200,complete with plugins and internet access
+,,,200,
+17775,https://singularityhub.com/2023/04/16/the-real-world-ai-agents-plan-parties-and-ask-each-other-out-on-dates-in-16-bit-virtual-town/,https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/,200,"Current implementations are still limited, despite the hype"
+,,,200,
+17642,https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/,https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/,200,Read More
+,,,200,
+17561,https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/,https://venturebeat.com/ai/elon-musk-quietly-starts-x-ai-a-new-artificial-intelligence-company-to-challenge-openai/,200,Read More
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://techcrunch.com/2023/04/11/twitter-inc-is-now-x-corp/,200,X Corp. name he has since assigned to Twitter
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.businessinsider.com/elon-musk-twitter-investment-generative-ai-project-2023-4,200,with a report from Business Insider
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.wsj.com/articles/elon-musks-new-artificial-intelligence-business-x-ai-incorporates-in-nevada-962c7c2f?mod=Searchresults_pos1&page=1,200,as first reported by The Wall Street Journal
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.documentcloud.org/documents/23778277-nevada-incorporation-of-xai,200,The Verge has also obtained
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://twitter.com/elonmusk/status/1577428272056389633?s=20,200,“X” label he’s applied to his vision
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.ft.com/content/2a96995b-c799-4281-8b60-b235e84aefe4,200,The Financial Times similarly reported
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.theverge.com/2015/12/11/9910742/elon-musk-openai-sam-altman-y-combinator-machine-learning,200,he co-founded
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://twitter.com/elonmusk/status/1626516035863212034?s=20,200,openly opposed to OpenAI
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.theverge.com/2023/3/24/23654701/openai-elon-musk-failed-takeover-report-closed-open-source,200,calling for a pause on “giant AI experiments.”
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.theverge.com/2023/3/26/23655456/chatgpt-bard-bing-ai-race-text-boxes,200,ChatGPT
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.theverge.com/2023/3/21/23649794/google-chatgpt-rival-bard-ai-chatbot-access-hands-on,200,Google’s
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.theverge.com/2018/2/21/17036214/elon-musk-openai-ai-safety-leaves-board,200,walked away from
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning,200,GPT-4
+,,,200,
+17553,https://www.theverge.com/2023/4/14/23684005/elon-musk-new-ai-company-x,https://www.theverge.com/2023/4/13/23681493/microsoft-bing-ios-integration-swiftkey-ios-android-availability,200,Microsoft
+,,,200,
+17522,https://venturebeat.com/ai/yes-microsoft-chatgpt-will-actually-wipe-out-jobs-and-more-than-you-think/,https://venturebeat.com/ai/yes-microsoft-chatgpt-will-actually-wipe-out-jobs-and-more-than-you-think/,200,Read More
+,,,200,
+17500,https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/,https://venturebeat.com/ai/3-generative-ai-misunderstandings-resolved-for-enterprise-success/,200,Read More
+,,,200,
+17488,https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/,https://venturebeat.com/ai/amazon-launches-bedrock-for-generative-ai-escalating-ai-cloud-wars/,200,Read More
+,,,200,
+17433,https://www.theverge.com/2023/4/14/23683084/openai-gpt-5-rumors-training-sam-altman,https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter,200,open letter
+,,,200,
+17433,https://www.theverge.com/2023/4/14/23683084/openai-gpt-5-rumors-training-sam-altman,https://www.imaginationinaction.co/the-future-of-business-with-ai,200,event at MIT
+,,,200,
+17433,https://www.theverge.com/2023/4/14/23683084/openai-gpt-5-rumors-training-sam-altman,https://www.vice.com/en/article/qjvppm/the-open-letter-to-stop-dangerous-ai-race-is-a-huge-mess,200,criticized
+,,,200,
+17433,https://www.theverge.com/2023/4/14/23683084/openai-gpt-5-rumors-training-sam-altman,https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party,200,connecting it to the internet
+,,,200,
+17433,https://www.theverge.com/2023/4/14/23683084/openai-gpt-5-rumors-training-sam-altman,https://www.google.com/search?q=theverge.com+gpt-4&oq=theverge.com+gpt-4&aqs=chrome..69i60j69i57j69i60l2.3771j0j4&sourceid=chrome&ie=UTF-8,200,released this March
+,,,200,
+17450,https://www.artificialintelligence-news.com/2023/04/14/arvind-jain-glean-on-using-ai-to-surface-knowledge/,https://www.glean.com/,200,Glean
+,,,200,
+17450,https://www.artificialintelligence-news.com/2023/04/14/arvind-jain-glean-on-using-ai-to-surface-knowledge/,https://www.artificialintelligence-news.com/2023/04/14/arvind-jain-glean-on-using-ai-to-surface-knowledge/,200,"Arvind Jain, Glean: On using AI to surface knowledge"
+,,,200,
+17450,https://www.artificialintelligence-news.com/2023/04/14/arvind-jain-glean-on-using-ai-to-surface-knowledge/,https://www.digitaltransformation-week.com/northamerica/,200,
+,,,200,
+17450,https://www.artificialintelligence-news.com/2023/04/14/arvind-jain-glean-on-using-ai-to-surface-knowledge/,https://www.digitaltransformation-week.com/northamerica/,200,Digital Transformation Week
+,,,200,
+17450,https://www.artificialintelligence-news.com/2023/04/14/arvind-jain-glean-on-using-ai-to-surface-knowledge/,https://www.ai-expo.net/northamerica/,200,AI & Big Data Expo
+,,,200,
+17450,https://www.artificialintelligence-news.com/2023/04/14/arvind-jain-glean-on-using-ai-to-surface-knowledge/,https://www.artificialintelligence-news.com,200,AI News
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/11/18/1063466/i-found-out-biological-age/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,I took a test to find out my biological age
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/12/02/1064091/your-microbiome-ages-as-you-do/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,the microbiome
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/12/02/1064091/your-microbiome-ages-as-you-do/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,the role of the microbiome
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/04/15/1050019/aging-clocks/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,aging clocks
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/08/22/1057660/strong-muscles-healthy-brain/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,exercise
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/11/18/1063466/i-found-out-biological-age/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,here’s my piece
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/06/07/1053132/saudi-arabia-slow-aging-metformin/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,reported
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/08/15/1057697/scientists-extend-lifespan-pet-dogs-owners/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,Meet the scientists trying to extend the lifespans of pet dogs
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/09/30/1060523/live-beyond-100-millionaires-betting-on-it/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,I wrote about my wild experience
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2022/04/15/1050019/aging-clocks/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,wrote
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://forms.technologyreview.com/newsletters/biotech-the-checkup/?_ga=2.241810882.15113993.1664981064-43237434.1647441349,200,sign up here
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.technologyreview.com/2023/03/08/1069523/sam-altman-investment-180-million-retro-biosciences-longevity-death/?utm_source=the_checkup&utm_medium=email&utm_campaign=the_checkup.unpaid.engagement&utm_content=04-14-23,200,reported
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.sciencedirect.com/science/article/abs/pii/S001078242300063X,200,Contraception
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.statnews.com/2023/04/12/michael-j-fox-parkinsons-biomarker/,200,STAT
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.nytimes.com/2023/04/11/us/abortion-pill-ruling.html,200,New York Times
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.nature.com/articles/s43587-023-00389-y,200,Nature
+,,,200,
+17418,https://www.technologyreview.com/2023/04/14/1071610/brain-and-liver-are-older-than-they-should-be/,https://www.scientificamerican.com/article/how-often-should-people-get-covid-boosters/,200,Scientific American
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://royalsocietypublishing.org/doi/10.1098/rsnr.2018.0015,200,The Origin of Species
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://theconversation.com/great-mysteries-of-physics-will-we-ever-have-a-fundamental-theory-of-life-and-consciousness-203127,200,we can’t really explain
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://theconversation.com/great-mysteries-of-physics-1-is-time-an-illusion-201026,200,philosophy of time
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://theconversation.com/uk/topics/quantum-mechanics-157,200,quantum mechanics
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://unsplash.com/@lanirudhreddy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,ANIRUDH
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Unsplash
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://www.grc.nasa.gov/www/k-12/airplane/thermo.html,200,thermodynamics
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://theconversation.com,200,The Conversation
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://www.nature.com/articles/s41467-021-23258-x,200,are only found
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://royalsocietypublishing.org/doi/full/10.1098/rsif.2012.0869,200,the threshold at which life arises from non-life
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://theconversation.com/life-modern-physics-cant-explain-it-but-our-new-theory-which-says-time-is-fundamental-might-203129,200,original article
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://unsplash.com/photos/Vu4-Il_2Kdo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Unsplash
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://arxiv.org/abs/2206.02279,200,newly proposed theory
+,,,200,
+17337,https://singularityhub.com/2023/04/13/modern-physics-cant-explain-life-but-a-new-theory-which-says-time-is-fundamental-might/,https://unsplash.com/ja/@zmachacek?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Zdeněk Macháček
+,,,200,
+17332,https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft,https://aws.amazon.com/codewhisperer/,200,signs up to use it
+,,,200,
+17332,https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft,https://aws.amazon.com/blogs/machine-learning/introducing-amazon-codewhisperer-the-ml-powered-coding-companion/,200,Amazon launched CodeWhisperer as a preview last year
+,,,200,
+17332,https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft,https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/,200,a post shared on Thursday
+,,,200,
+17332,https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft,https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/,200,also launching something called Bedrock
+,,,200,
+17332,https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft,https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce,200,Google’s DeepMind has its own AlphaCode tool
+,,,200,
+17332,https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft,https://www.theverge.com/2022/6/21/23176574/github-copilot-launch-pricing-release-date,200,Microsoft-owned GitHub beat Amazon
+,,,200,
+17332,https://www.theverge.com/2023/4/13/23681796/amazon-ai-coding-assistant-codewhisperer-microsoft,https://www.theverge.com/2022/6/21/23176574/github-copilot-launch-pricing-release-date,200,$10 per month
+,,,200,
+17962,https://venturebeat.com/data-infrastructure/data-center-ops-how-ai-and-ml-are-boosting-efficiency-and-resilience/,https://venturebeat.com/data-infrastructure/data-center-ops-how-ai-and-ml-are-boosting-efficiency-and-resilience/,200,Read More
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://openai.com/blog/chatgpt,200,ChatGPT
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://unsplash.com/photos/7q-kE4SZzvQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Unsplash
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://unsplash.com/@siva_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Levart_Photographer
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://gdpr-info.eu/,200,General Data Protection Regulation
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://www.artificialintelligence-news.com/2023/03/31/ai-think-tank-gpt-4-risk-to-public-safety/,200,AI think tank calls GPT-4 a risk to public safety
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://www.garanteprivacy.it/web/garante-privacy-en,200,Guarantor for the Protection of Personal Data
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://www.ai-expo.net/,200,
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://www.ai-expo.net/,200,AI & Big Data Expo
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,200,​​Italy will lift ChatGPT ban if OpenAI fixes privacy issues
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://digitaltransformation-week.com/,200,Digital Transformation Week
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://www.artificialintelligence-news.com,200,AI News
+,,,200,
+17393,https://www.artificialintelligence-news.com/2023/04/13/italy-lift-chatgpt-ban-openai-fixes-privacy-issues/,https://techforge.pub/upcoming-events/,200,here.
+,,,200,
+17511,https://venturebeat.com/ai/distyl-ai-raises-7m-partners-with-openai-to-expand-enterprise-ai-offerings/,https://venturebeat.com/ai/distyl-ai-raises-7m-partners-with-openai-to-expand-enterprise-ai-offerings/,200,Read More
+,,,200,
+17215,https://www.technologyreview.com/2023/04/13/1071255/the-science-behind-ai-first-transformations/,https://www.infosys.com/ai/ai-applied/science-behind-ai-first.pdf?utm_source=infosys_hub&utm_medium=main,200,here
+,,,200,
+17218,https://www.technologyreview.com/2023/04/13/1071252/an-infosys-study-on-the-adoption-of-ai-in-telecommunications/,https://www.infosys.com/iki/documents/research/data-ai-radar-telecommunications-report22.pdf?utm_source=infosys_hub&utm_medium=main,200,here
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.theverge.com/2022/11/1/23434500/oil-giant-occidental-carbon-removal-dac-king-ranch-texas,200,Texas
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://singularityhub.com/2022/06/29/a-new-carbon-capture-plant-will-pull-36000-tons-of-co2-from-the-air-each-year/,200,Iceland
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://singularityhub.com/2022/09/21/a-massive-carbon-capture-plant-in-wyoming-will-pull-5-million-tons-of-co2-from-the-air-each-year/,200,Wyoming
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.science.org/content/article/switzerland-giant-new-machine-sucking-carbon-directly-air,200,Switzerland
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://singularityhub.com/2017/10/19/why-we-need-negative-emissions-tech-but-its-no-silver-bullet/,200,carbon capture
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.usgs.gov/news/featured-story/making-minerals-how-growing-rocks-can-help-reduce-carbon-emissions,200,mineralization
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.cellamineralstorage.com/,200,Cella Mineral Storage
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,http://www.geo.mtu.edu/KeweenawGeoheritage/BlackLavas/Basalt.html,200,Basalt
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.geolsoc.org.uk/Policy-and-Media/Outreach/Plate-Tectonic-Stories/Vale-of-Eden/East-African-Rift-Valley,200,East African Rift Valley
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://oceanservice.noaa.gov/facts/carbon-cycle.html#transcript,200,carbon cycle
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://eos.org/articles/basalts-turn-carbon-into-stone-for-permanent-storage,200,experiments in Iceland
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.bbc.com/future/article/20210303-geothermal-the-immense-volcanic-power-beneath-our-feet,200,geothermal energy
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.thinkgeoenergy.com/tag/olkaria/,200,Olkaria
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.standardmedia.co.ke/health/health-science/article/2001460221/cop27-kenya-to-benefits-from-africa-carbon-markets,200,exporting carbon credits
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.ted.com/talks/james_irungu_mwangi_africa_s_great_carbon_valley_and_how_to_end_energy_poverty,200,Great Carbon Valley
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://volcano.si.edu/gallery/ShowImage.cfm?photo=GVP-12556,200,Mega Basalt Field
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://commons.wikimedia.org/wiki/File:Rift_Valley._Viewpoint._Kenya_2013._-_panoramio_%284%29.jpg,200,Roma Neus/Wikimedia Commons
+,,,200,
+17051,https://singularityhub.com/2023/04/12/this-startup-wants-to-inject-co2-straight-into-volcanic-rock-in-kenya/,https://www.statista.com/statistics/1221124/population-with-access-to-electricity-in-kenya/,200,access to electricity
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.science.org/doi/10.1126/scitranslmed.abp8982,200,In a study
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,"https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(14)70181-4/fulltext#:~:text=The%20Human%20Brain%20Project%20(HBP,understanding%20of%20the%20human%20brain.",200,initially
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(23)00008-X/fulltext?rss=yes,200,wrote
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.scientificamerican.com/article/brain-in-a-box-project/,200,met with much skepticism
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://ebrains.eu/service/the-virtual-brain/,200,the Virtual Brain
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://clinicaltrials.gov/ct2/show/NCT03643016,200,ongoing clinical trial
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://singularityhub.com/2021/12/28/the-biggest-brain-maps-ever-created-are-pushing-the-frontiers-of-neuroscience/,200,trivial
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://singularityhub.com/2017/11/15/a-google-maps-for-the-mouse-brain-details-neurons-like-never-before/,200,that map connections across a mammalian brain
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(23)00008-X/fulltext?rss=yes,200,Epilepsy
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.sciencedirect.com/science/article/pii/S089662731630719X,200,Brain/MINDS
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://braininitiative.nih.gov/,200,BRAIN Initiative
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://singularityhub.com/2016/03/13/us-bets-100-million-on-machines-that-think-more-like-humans/,200,neural wiring
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://singularityhub.com/2021/06/06/google-and-harvard-unveil-the-largest-high-resolution-map-of-the-brain-yet/,200,3D models for anyone to explore
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(23)00008-X/fulltext/,200,said
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.nature.com/articles/d41586-023-00990-6,200,said
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://unsplash.com/photos/9A9TcXEsy6c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,Unsplash
+,,,200,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://unsplash.com/@kommers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,200,KOMMERS
+,,,,
+16844,https://singularityhub.com/2023/04/11/surgeons-are-simulating-whole-brains-to-pin-down-the-source-of-their-patients-seizures/,https://www.eurekalert.org/news-releases/977851,, said
+,,,,
+16675,https://singularityhub.com/2023/04/10/metas-new-ai-can-identify-and-remove-objects-in-images/,https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/,,a blog
+,,,,
+16675,https://singularityhub.com/2023/04/10/metas-new-ai-can-identify-and-remove-objects-in-images/,https://segment-anything.com/,,web page
+,,,,
+16675,https://singularityhub.com/2023/04/10/metas-new-ai-can-identify-and-remove-objects-in-images/,https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/,,Meta AI
+,,,,
+16675,https://singularityhub.com/2023/04/10/metas-new-ai-can-identify-and-remove-objects-in-images/,https://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse,,leaked online
+,,,,
+16675,https://singularityhub.com/2023/04/10/metas-new-ai-can-identify-and-remove-objects-in-images/,https://singularityhub.com/2023/03/19/openai-says-gpt-4-is-better-in-nearly-every-way-what-matters-more-is-that-millions-will-use-it/,,OpenAI’s GPT
+,,,,
+16675,https://singularityhub.com/2023/04/10/metas-new-ai-can-identify-and-remove-objects-in-images/,https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/,,wave of experimentation 
+,,,,
+16675,https://singularityhub.com/2023/04/10/metas-new-ai-can-identify-and-remove-objects-in-images/,https://www.wired.com/story/stanford-proposal-ai-foundations-ignites-debate/,,controversial term
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/events/tc-early-stage-2023/,,Early Stage
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/,,shadier possible cultural 
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/author/devin-coldewey/,,Devin Coldewey
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/,,generative AI
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/03/a-knife-so-sharp-you-dont-feel-it-cut/,,A knife so sharp you don’t feel it cut
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/,,The takeaways from Stanford’s 386-page report on the state of AI
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/03/the-great-pretender/,,The Great Pretender
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/03/thousands-of-gen-z-creators-are-using-fanfix-to-monetize-content-and-interact-with-fans/,,Thousands of Gen Z creators are using Fanfix to monetize content and interact with fans
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/05/bob-lee-creator-of-cash-app-and-former-cto-of-square-stabbed-to-death/,,"Bob Lee, creator of Cash App and former CTO of Square, stabbed to death"
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/04/hype-grows-for-spacexs-starship-orbital-flight-test-but-barriers-remain/,,"Hype grows for SpaceX’s Starship orbital flight test, but barriers remain"
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/03/twitters-new-dog-icon-is-sending-dogecoin-sigh-to-the-moon/,,Twitter’s new dog icon is sending dogecoin — sigh — to the moon
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,,"The AI machines are coming for thought work, and other TC news"
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/2023/04/03/twitters-new-homepage-logo-is-very-doge-y/,,Twitter’s new homepage logo is very doge-y
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com/author/maggie-stamets-2/,,Maggie Stamets
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,https://techcrunch.com,,TechCrunch
+,,,,
+16265,https://techcrunch.com/2023/04/07/the-ai-machines-are-coming-for-thought-work-and-other-tc-news/,http://@etherington,,Darrell Etherington
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://www.nature.com/articles/s41598-022-27361-x,,paper in Nature
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://www.essex.ac.uk/people/dalyi03400/ian-daly,,Ian Daly
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://singularityhub.com/2017/04/19/neuroscientists-can-now-read-your-dreams-with-a-simple-brain-scan/,,content of our dreams
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://singularityhub.com/2022/04/19/scientists-used-brain-scans-to-see-how-magic-mushrooms-battle-depression-heres-what-they-found/,,impact of psilocybin
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://singularityhub.com/2021/03/18/this-ai-uses-your-brain-activity-to-create-fake-faces-it-knows-youll-find-attractive/,,faces we’ll find attractive
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://www.baeldung.com/cs/bidirectional-vs-unidirectional-lstm,,type of recurrent neural network
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://www.open.edu/openlearn/body-mind/health/health-sciences/how-fmri-works,,fMRI
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://www.nature.com/articles/s41598-022-27361-x,,wrote in the paper
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://unsplash.com/photos/tEVGmMaPFXk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,,Unsplash
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://singularityhub.com/2023/01/31/ai-powered-brain-implant-smashes-speed-record-for-turning-thoughts-into-text/,,such as ALS
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://singularityhub.com/2022/03/30/brain-implant-allows-locked-in-man-to-translate-thoughts-into-written-sentences/,,brain implants
+,,,,
+16042,https://singularityhub.com/2023/04/06/this-researcher-knew-what-song-people-were-listening-to-based-on-their-brain-activity/,https://unsplash.com/it/@alinnnaaaa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText,,Alina Grubnyak
+,,,,
+16113,https://www.artificialintelligence-news.com/2023/04/06/how-ai-transform-enterprises-test-digital-experiences/,https://www.artificialintelligence-news.com/2023/04/06/how-ai-transform-enterprises-test-digital-experiences/,,How AI can transform the way enterprises test digital experiences
+,,,,
+16113,https://www.artificialintelligence-news.com/2023/04/06/how-ai-transform-enterprises-test-digital-experiences/,https://www.artificialintelligence-news.com,,AI News
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-us/data-center/dgx-h100/,,DGX H100 systems
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-us/data-center/h100/,,NVIDIA H100 Tensor Core GPUs
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-us/data-center/resources/mlperf-benchmarks/,,MLPerf tests
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://blogs.nvidia.com/blog/2023/01/26/what-are-large-language-models-used-for/,,large language model
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://blogs.nvidia.com/blog/2022/03/22/h100-transformer-engine/,,Transformer Engine
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://developer.nvidia.com/blog/?p=62958&preview=1&_ppp=80347d2303,,software optimizations
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-us/data-center/l4/,,NVIDIA L4 Tensor Core GPUs
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/gtc/keynote/,,GTC
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://aitoptools.com/wp-content/uploads/2023/04/H100-GPU-inference-performance-MLPerf-scaled-1.jpg,,
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://nvidianews.nvidia.com/news/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-platform-built-on-the-new-l4-gpu-and-vertex-ai,,cloud service providers
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-us/data-center/dgx-a100/,,NVIDIA DGX A100
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://aitoptools.com/wp-content/uploads/2023/04/L4-GPU-inference-performance-on-MLPerf-scaled-1.jpg,,
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-us/networking/ethernet-adapters/,,NVIDIA ConnectX SmartNICs
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://nvidianews.nvidia.com/news/nvidia-launches-inference-platforms-for-large-language-models-and-generative-ai-workloads,,AI inference platforms
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-au/networking/infiniband/qm8700/,,NVIDIA Quantum Infiniband
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://www.nvidia.com/en-us/data-center/products/ai-enterprise/,,NVIDIA AI Enterprise
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://aitoptools.com/wp-content/uploads/2023/04/Jetson-AGX-Orin-inference-performance-and-efficiency-scaled-1.jpg,,
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://developer.nvidia.com/gpudirect,,NVIDIA GPUDirect
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://ngc.nvidia.com/catalog,,NGC
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://github.com/mlcommons/inference_results_v3.0,,the MLPerf repository
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://developer.nvidia.com/tensorrt,,NVIDIA TensorRT
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://blogs.nvidia.com/blog/2022/09/08/hopper-mlperf-inference/,,their debut
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://developer.nvidia.com/blog/?p=62958&preview=1&_ppp=80347d2303,,technical blog
+,,,,
+15806,https://blogs.nvidia.com/blog/2023/04/05/inference-mlperf-ai/,https://blogs.nvidia.com/blog/2020/05/14/whats-a-recommender-system/,,recommendation systems
+,,,,
+16407,https://venturebeat.com/ai/decis-nlp-model-clocks-100000-queries-per-second-in-latest-mlperf-results/,https://venturebeat.com/ai/decis-nlp-model-clocks-100000-queries-per-second-in-latest-mlperf-results/,,Read More
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://techcrunch.com/tag/chatgpt/,,ChatGPT
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://www.perplexity.ai/,,Perplexity AI
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,,"AI-powered search engine Perplexity AI lands $26M, launches iOS app"
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://techcrunch.com/2023/02/15/bing-around-and-find-out/,,hallucinating
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://techcrunch.com,,TechCrunch
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://techcrunch.com/2023/03/28/generative-ai-venture-capital/,,released
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://www.statista.com/statistics/268252/web-visitor-traffic-to-googlecom/,,estimated
+,,,,
+15574,https://techcrunch.com/2023/04/04/ai-powered-search-engine-perplexity-ai-lands-26m-launches-ios-app/,https://techcrunch.com/author/kyle-wiggers/,,Kyle Wiggers
+,,,,
+15414,https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/,https://techcrunch.com/author/natasha-mascarenhas/,,Natasha Mascarenhas
+,,,,
+15414,https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/,https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/,,‘There’s too much opportunity’ in Cerebral Valley
+,,,,
+15414,https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/,https://techcrunch.com,,TechCrunch
+,,,,
+15414,https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/,https://techcrunch.com/2023/03/29/startup-automation-fundraising-seed-checks/,,eager entrepreneurs 
+,,,,
+15414,https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/,https://twitter.com/theamberyang/status/1612482298670379010,,the attention of top-tier investors.
+,,,,
+15414,https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/,https://sfstandard.com/technology/what-is-cerebral-valley-san-franciscos-nerdiest-new-neighborhood/,,hacker homes
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html,,go mainstream by 2021
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://www.youtube.com/watch?v=lP6bNfRe-4U&t=322s,,put it
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://www.nature.com/articles/s41586-023-05732-2,,Nature
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://www.economist.com/leaders/2019/10/12/driverless-cars-are-stuck-in-a-jam,,more complicated
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://www.nature.com/articles/s41586-023-05732-2,,wrote
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://singularityhub.com/2022/04/20/gm-just-patented-a-self-driving-car-that-teaches-people-to-drive/,,self-driving cars
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://singularityhub.com/2017/12/18/this-self-driving-ai-is-learning-to-drive-almost-entirely-in-a-virtual-world/,,virtual environment
+,,,,
+13724,https://singularityhub.com/2023/03/31/to-make-self-driving-cars-safer-expose-them-to-terrible-drivers/,https://singularityhub.com/2022/01/05/a-chinese-company-says-it-will-sell-driverless-cars-to-consumers-by-2024/,,self-driving cars
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models,,generative AI
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://blogs.nvidia.com/ai-podcast/,,AI Podcast
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://soundcloud.com/theaipodcast,,The AI Podcast
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://soundcloud.com/theaipodcast/ai-ubisoft/s-3uWmLAIKNRi,,Ubisoft’s Yves Jacquier on How Generative Will Revolutionize Gaming
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://soundcloud.com/theaipodcast/gantheftauto-harrison-kinsley-on-ai-generated-gaming-environments,,GANTheftAuto: Harrison Kinsley on AI-Crafted Gaming Environments
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://twitter.com/NVIDIAAI,,@NVIDIAAI
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://soundcloud.com/theaipodcast/real-or-not-real-attorney-steven-frank-uses-deep-learning-to-authenticate-art,,Real or Not Real? Attorney Steven Frank Employs Deep Learning to Authenticate Art
+,,,,
+13186,https://blogs.nvidia.com/blog/2023/03/29/ubisofts-yves-jacquier-on-how-generative-ai-will-revolutionize-gaming/,https://soundcloud.com/theaipodcast/sequoia-capitals-pat-grady-and-sonya-huang-on-generative-ai-ep-187,,Sequoia Capital’s Pat Grady and Sonya Huang on Generative AI
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://twitter.com/rebecca_szkutak,,Becca
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://twitter.com/found,, Twitter
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://twitter.com/MiamiAngela,,Angela Hoover
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://twitter.com/andi_search,,Andi
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://twitter.com/etherington,,Darrell
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://www.instagram.com/foundpod/,, Instagram
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://techcrunch.com,,TechCrunch
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://techcrunch.com/author/rebecca-szkutak/,,Rebecca Szkutak
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,,Building Generative AI before it was cool with Angela Hoover from Andi
+,,,,
+10016,https://techcrunch.com/2023/03/28/building-generative-ai-before-it-was-cool-with-angela-hoover-from-andi/,https://pod.link/found,,Subscribe to Found
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence/,,responsible way
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://aka.ms/SecurityCopilot,,Microsoft Security Copilot
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://www.linkedin.com/pulse/how-ai-impact-future-security-charlie-bell/,,AI will transform
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://aka.ms/SecurityCopilotDemo,,Watch the Microsoft Security Copilot demo >
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence/,,Meeting the moment: advancing the future through responsible AI
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/,,"Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web"
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://secure.microsoft.com/en-US/home,,Microsoft Secure event
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://www.linkedin.com/pulse/how-ai-impact-future-security-charlie-bell/,,How AI impacts Future of Security
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://aka.ms/SubscribeToSecurity,,Stay up to date >
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,,Introducing Microsoft Security Copilot: Empowering defenders at the speed of AI
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://www.microsoft.com/en-us/security/blog/2023/01/25/microsoft-security-reaches-another-milestone-comprehensive-customer-centric-solutions-drive-results/,,"Microsoft Security reaches another milestone — Comprehensive, customer-centric solutions drive results"
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://blogs.microsoft.com,,The Official Microsoft Blog
+,,,,
+10009,https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE54L7v,,Cyber Signals Volume 2
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com/events/tc-disrupt-2023/?utm_source=tc&utm_medium=article&utm_campaign=disrupt2023&utm_content=post_whatsnew&promo=post_whatsnew,,TechCrunch Disrupt 2023
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com/events/tc-disrupt-2023/tracks/?utm_source=tc&utm_medium=article&utm_campaign=disrupt2023&utm_content=post_whatsnew&promo=post_whatsnew,,6 new programming days
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com/2023/02/23/startup-battlefield-applications-disrupt-2023/,,Startup Battlefield 200
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,,Disrupt 2023 — we’re shipping a big new release
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com/events/tc-disrupt-2023/tickets/?utm_source=tc&utm_medium=article&utm_campaign=disrupt2023&utm_content=post_whatsnew&promo=post_whatsnew,,book your pass here
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com,,TechCrunch
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com/tag/silicon-valley-bank/,,even the past week
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://oathtechevents.typeform.com/tcstartups?utm_source=tc&utm_medium=article&utm_campaign=disrupt&typeform-source=techcrunch.com,,Submit your Startup Battlefield 200 application here
+,,,,
+8041,https://techcrunch.com/2023/03/27/disrupt-2023-were-shipping-a-big-new-release/,https://techcrunch.com/author/matthew-panzarino/,,Matthew Panzarino
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/,,Bing
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,,generate content
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://www.microsoft.com/en-us/ai/our-approach?activetab=pivot1:primaryr5,,AI principles
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.microsoft.com/blog/2023/03/06/introducing-microsoft-dynamics-365-copilot/,,Microsoft Dynamics 365 Copilot
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://partner.microsoft.com/en-us/partnership/solutions-partner,,Solutions Partner designations
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/,,Microsoft 365 Copilot
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://aka.ms/oai/get-gpt4,,applying
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl,,Responsible AI Standard
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://partner.microsoft.com/en/training/assets/collection/independent-software-vendor-resources#/,,Microsoft Cloud Partner Program FAQ and the ISV growth page on our partner website
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://partner.microsoft.com/en-US/partnership/specialization/ai-and-machine-learning,,AI and Machine Learning in Microsoft Azure Specialization
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.partner.microsoft.com/partner/welcome-to-the-microsoft-cloud-partner-program/,,Microsoft Cloud Partner Program
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://partner.microsoft.com/en-us/partnership/specialization,,28 specializations
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.microsoft.com,,The Official Microsoft Blog
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.partner.microsoft.com/partner/empowering-partners-to-develop-ai-powered-apps-experiences-with-chatgpt-in-azure-openai-service/,,GPT-4 in Azure OpenAI Service
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,,Microsoft creates new opportunities for partners through AI offerings and expansion of Microsoft Cloud Partner Program
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://dynamicspartners.transform.microsoft.com/blogs/dynamics365/NewMCPPUpdatesForBusinessApplicationsPartners,,Dynamics 365 for Partners blog
+,,,,
+7167,https://blogs.microsoft.com/blog/2023/03/22/microsoft-creates-new-opportunities-for-partners-through-ai-offerings-and-expansion-of-microsoft-cloud-partner-program/,https://microsoftcloudpartner.eventbuilder.com/event/70607,,Commercial Marketplace Impact Event
+,,,,
+7108,https://blogs.nvidia.com/blog/2023/03/22/sutskever-openai-gtc/,https://news.microsoft.com/source/features/ai/how-microsofts-bet-on-azure-unlocked-an-ai-revolution/,,tens of thousands
+,,,,
+7108,https://blogs.nvidia.com/blog/2023/03/22/sutskever-openai-gtc/,https://blogs.nvidia.com/blog/2016/01/12/accelerating-ai-artificial-intelligence-gpus/,,Big Bang of AI
+,,,,
+7108,https://blogs.nvidia.com/blog/2023/03/22/sutskever-openai-gtc/,https://www.nvidia.com/gtc/,,GTC
+,,,,
+7108,https://blogs.nvidia.com/blog/2023/03/22/sutskever-openai-gtc/,https://www.nvidia.com/gtc/session-catalog/?tab.catalogallsessionstab=16566177511100015Kus#/session/1669748941314001t6Nv,,fireside chat
+,,,,
+7108,https://blogs.nvidia.com/blog/2023/03/22/sutskever-openai-gtc/,https://aitoptools.com/wp-content/uploads/2023/03/Ilya-wide-arms-scaled-1.jpg,,
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.nvidia.com/en-us/data-center/products/ai-enterprise/,,NVIDIA AI Enterprise software suite
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.nvidia.com/en-us/data-center/solutions/mlops/,,NVIDIA MLOps
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.nvidia.com/en-us/data-center/dgx-systems/,,NVIDIA DGX systems
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.nvidia.com/en-us/data-center/dgx-ready-software/,,DGX-Ready Software
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://developer.nvidia.com/blog/demystifying-enterprise-mlops,,MLOps
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.nvidia.com/en-us/data-center/dgx-ready-software/,, NVIDIA DGX-Ready Software
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.nvidia.com/en-us/data-center/dgx-systems/,,NVIDIA DGX
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.idc.com/getdoc.jsp?containerId=prUS48870422,,recent IDC survey
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.einpresswire.com/article/620529892/clearml-certified-to-run-nvidia-ai-enterprise-software-suite,,Now certified to run NVIDIA AI Enterprise
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.dataiku.com/press-releases/dataiku-joins-nvidia-dgx-ready-software-program,,Dataiku is now certified
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://developer.nvidia.com/nvidia-triton-inference-server,,NVIDIA Triton Inference Server
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.dominodatalab.com/blog/domino-validated-for-nvidia-ai-enterprise,,Certified to run on NVIDIA AI Enterprise last year
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.dominodatalab.com/news/domino-data-lab-makes-cutting-edge-ai-accessible-to-all-enterprises,,Domino Cloud
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.run.ai/blog/run-ai-certified-to-run-nvidia-ai-enterprise-software-suite,,Certified to offer NVIDIA AI Enterprise
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://wandb.ai/wandb/wb-announcements/reports/Weights-Biases-Unveils-Integrations-with-NVIDIA-AI--VmlldzozODA3MTA4,,Now validated to offer NVIDIA AI Enterprise
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://www.nvidia.com/gtc/,,NVIDIA GTC
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://developer.nvidia.com/nvidia-merlin,,NVIDIA Merlin
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://k21academy.com/devops-foundation/overview-devops-devops-principles-advantages-of-devops-why-devops/,,DevOps principles
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://k21academy.com/microsoft-azure/dp-100/how-to-deploy-azure-machine-learning-model-in-production/,,Azure machine learning models
+,,,,
+7068,https://blogs.nvidia.com/blog/2023/03/22/mlops-ai-platform-partners-move-ai-into-production/,https://ubuntu.com/blog/scale-enterprise-ai-with-canonical-and-nvidia,,Charmed Kubeflow is now certified as part of the DGX-Ready Software program
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/nvidia-asml-tsmc-and-synopsys-set-foundation-for-next-generation-chip-manufacturing,,"together with ASML, TSMC and Synopsis, NVIDIA computational lithography"
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666649718260001UCp2,,Valeri Taylor of Argonne Labs
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666649552658001vXF5,,Paul Debevec of Netflix
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666649457197001tw0E,,Demis Hassabis of DeepMind
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1667245596491001m5gS,,Thomas Schulthess of ETH Zurich
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1669748389137001LG0S,,Scott Belsky of Adobe
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1666293179097001xjDD,,rearranging molecules to accelerate drug discovery
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://register.nvidia.com/flow/nvidia/gtcspring2023/attendeeportal/page/sessioncatalog/session/1669748941314001t6Nv,,"between Huang and Ilya Sutskever, co-founder of OpenAI, the creator of ChatGPT"
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/01/26/what-are-large-language-models-used-for/,,large language model
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/03/21/grace-cpu-energy-efficiency/,,Grace is sampling now
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.oracle.com/cloud-infrastructure/post/limited-availability-oci-compute-nvidia-h100,,Oracle Cloud Infrastructure
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://azure.microsoft.com/en-us/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/,,Microsoft Azure’
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/nvidia-and-microsoft-to-bring-the-industrial-metaverse-and-ai-to-hundreds-of-millions-of-enterprise-users-via-azure-cloud,,Microsoft Azure
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blog.paperspace.com/paperspace-launches-support-for-the-new-nvidia-h100-gpu/,,Paperspace
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://lambdalabs.com/blog/lambda-cloud-adding-nvidia-h100-tensor-core-gpus-in-early-april,,Lambda
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models,,Huang announced NVIDIA AI Foundations
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/adobe-and-nvidia-partner-to-unlock-the-power-of-generative-ai,,Adobe is partnering with NVIDIA
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/nvidia-launches-dgx-cloud-giving-every-enterprise-instant-access-to-ai-supercomputer-from-a-browser,,Huang announced NVIDIA DGX Cloud
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvid.nvidia.com/,,NVIDIA AI Enterprise
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/medtronic-and-nvidia-collaborate-to-build-ai-platform-for-medical-devices,,Huang also announced that NVIDIA and Medtronic
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/shutterstock-teams-with-nvidia-to-build-ai-foundation-models-for-generative-3d-artist-tools,,Shutterstock is working with NVIDIA
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/03/21/generative-ai-getty-images/,,Getty Images is collaborating with NVIDIA
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/nvidia-launches-set-of-inference-platforms-for-diverse-generative-ai-workloads,,"Huang announced inference platforms for AI video, image generation, LLM deployment and recommender inference"
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://www.nvidia.com/en-us/data-center/l4,,NVIDIA L4 Tensor Core GPU
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://www.nvidia.com/en-us/data-center/h100/,,NVIDIA H100 NVL GPU
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/nvidia-and-microsoft-to-bring-the-industrial-metaverse-and-ai-to-hundreds-of-millions-of-enterprise-users-via-azure-cloud,,"Huang announced NVIDIA is partnering with Microsoft to bring NVIDIA Omniverse Cloud, a fully managed cloud service, to the world’s industries"
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/03/21/third-generation-ovx-computing-systems,,unveiling new NVIDIA OVX servers and a new generation of workstations powered by NVIDIA RTX Ada Generation GPUs and Intel’s newest CPUs optimized for NVIDIA Omniverse
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://www.nvidia.com/en-us/self-driving-cars/drive-platform/hardware/,,NVIDIA DRIVE Orin
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/nvidia-asml-tsmc-and-synopsys-set-foundation-for-next-generation-chip-manufacturing,,Huang announced NVIDIA cuLitho
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/03/21/nvidia-ai-and-omniverse-transform-automakers-workflows,,Huang dug into Omniverse’s role in digitalizing the $3 trillion auto industry
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://nvidianews.nvidia.com/news/att-supercharges-operations-with-nvidia-ai,,Telecom giant AT&T uses NVIDIA AI
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/03/21/bmw-group-nvidia-omniverse,,BMW is using Omniverse to plan operations across factories worldwide
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/03/21/nemo-large-language-models-real-time-data/,,NVIDIA NeMo for building custom language text-to-text generative models
+,,,,
+6683,https://blogs.nvidia.com/blog/2023/03/21/gtc-keynote-spring-2023/,https://blogs.nvidia.com/blog/2023/03/21/generative-ai-art-for-images-video-3d/,,"Picasso, a visual language model-making service for customers who want to build custom models trained with licensed or proprietary content"
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://www.nvidia.com/en-us/omniverse/apps/audio2face/,,Audio2Face
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://www.nvidia.com/en-us/ai-data-science/products/riva/,,Riva
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://nvidianews.nvidia.com/news/at-t-supercharges-operations-with-nvidia-ai,,AT&T and Quantiphi
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://www.nvidia.com/gtc/,,GTC
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://developer.nvidia.com/maxine,,Maxine
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://developer.nvidia.com/nvidia-omniverse-platform/ace/tokkio-showcase,,Tokkio
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://aitoptools.com/wp-content/uploads/2023/03/Copy-of-att-quantiphi-still-1-1280x680-1.jpg,,
+,,,,
+6685,https://blogs.nvidia.com/blog/2023/03/21/avatar-solutions-enhance-development/,https://developer.nvidia.com/nvidia-omniverse-platform/ace,,NVIDIA Omniverse ACE
+,,,,
+7152,https://venturebeat.com/games/nvidia-launches-omniverse-workflow-for-car-makers-to-digitize-their-operations/,https://venturebeat.com/games/nvidia-launches-omniverse-workflow-for-car-makers-to-digitize-their-operations/,,Read More
+,,,,
+7056,https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/,https://venturebeat.com/ai/nvidia-unveils-isaac-sim-on-omniverse-cloud-for-better-robot-design/,,Read More
+,,,,
+7047,https://venturebeat.com/ai/nvidia-unleashes-h100-its-fastest-ai-gpu-yet-across-clouds-and-vendors/,https://venturebeat.com/ai/nvidia-unleashes-h100-its-fastest-ai-gpu-yet-across-clouds-and-vendors/,,Read More
+,,,,
+6881,https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/,https://venturebeat.com/ai/nvidias-dgx-cloud-brings-ai-supercomputing-to-enterprises-via-a-web-browser/,,Read More
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://www.microsoft.com/en-us/ai/responsible-ai,,Responsible AI principles
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://blogs.microsoft.com/wp-content/uploads/prod/2023/03/BingImageCreator_Edge_16x9_EN-US-scaled.jpg,,
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://blogs.microsoft.com/wp-content/uploads/prod/2023/03/BingImageCreator_InChat_16x9_EN-GB.png,,
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://aitoptools.com/wp-content/uploads/2023/03/BingStories_16x9_EN-GB.jpg,,
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://www.bing.com/create?ssp=1&darkschemeovr=1&setlang=en-US&safesearch=moderate&toWww=1&redig=D924C6B872B4455196C96D4B92FB0D71,,bing.com/create
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://aitoptools.com/wp-content/uploads/2023/03/BingKC_16x9_EN-US.jpg,,
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5cmFl,,Responsible AI Standard
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,http://www.bing.com/new,,sign up
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,,Create images with your words – Bing Image Creator comes to the new Bing
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://blogs.microsoft.com,,The Official Microsoft Blog
+,,,,
+6571,https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/,https://munch.studio/the-power-of-infographics-in-the-information-age/,,"the human brain processes visual information about 60,000 times faster than text"
+,,,,
+6385,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,https://www.microsoft.com/en-us/research/project/generative-chemistry/news-and-awards/,,speed up the discovery and development
+,,,,
+6385,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence/,,Microsoft’s responsible AI standards
+,,,,
+6385,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/,,advance and build infrastructure
+,,,,
+6385,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,,Breaking new ground in healthcare with the next evolution of AI
+,,,,
+6385,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,https://blogs.microsoft.com,,The Official Microsoft Blog
+,,,,
+6385,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,https://www.hhs.gov/surgeongeneral/priorities/health-worker-burnout/index.html,,U.S. Surgeon General
+,,,,
+6385,https://blogs.microsoft.com/blog/2023/03/20/breaking-new-ground-in-healthcare-with-the-next-evolution-of-ai/,https://www.nuance.com/ExpressNews,,Dragon Ambient eXperience (DAX) Express
+,,,,
+6679,https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/,https://venturebeat.com/ai/generative-ai-imagining-a-future-of-ai-dominated-creativity/,,Read More
+,,,,
+5642,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,https://www.bing.com/new,,bing.com/new
+,,,,
+5642,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,https://open.spotify.com/episode/5nQjro4Z5uQea2YPLCMsKL?si=5e8ec7c9062549d8&nd=1,,On With Kara Swisher podcast episode
+,,,,
+5642,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,,Prompts for communicators using the new AI-powered Bing
+,,,,
+5642,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,https://blogs.microsoft.com,,The Official Microsoft Blog
+,,,,
+5642,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,https://blogs.bing.com/search/march_2023/Bing-Preview-Release-Notes-Tone-Changes-and-More,,conversation style
+,,,,
+5642,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,https://www.wsj.com/articles/i-tried-microsofts-new-ai-powered-bing-search-will-never-be-the-same-11675799762,,example
+,,,,
+5642,https://blogs.microsoft.com/blog/2023/03/16/prompts-for-communicators-using-the-new-ai-powered-bing/,https://www.conference-board.org/events/corpcomms,,event
+,,,,
+6567,https://venturebeat.com/ai/unleashing-the-potential-of-ai-the-power-of-an-end-to-end-environment-for-innovation/,https://venturebeat.com/ai/unleashing-the-potential-of-ai-the-power-of-an-end-to-end-environment-for-innovation/,,Read More
+,,,,
+6436,https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/,https://venturebeat.com/ai/generative-ai-output-could-be-eligible-for-copyright-protection-but-theres-a-catch/,,Read More
+,,,,
+5901,https://venturebeat.com/ai/scaling-ai-responsibly/,https://venturebeat.com/ai/scaling-ai-responsibly/,,Read More
